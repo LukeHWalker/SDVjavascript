@@ -1,6 +1,6 @@
-# SDVjavascript
+# WEEK TWO
 
-## WEEK TWO
+## NOTES
 
 ## LABS
 
