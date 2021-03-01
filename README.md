@@ -1,10 +1,10 @@
-# SDVjavascript
-javascript playground for SDV503
+# **SDV javascript**
+*javascript playground for SDV503. \
+Sections are split by week into branches.*
 
 
 **DEPENDENCIES**
 
-* Install npm and Node
-* Install markdown package using npm
-
-``` $ npm install markdown ```
+* Install *NPM* and *Node*
+* Install *markdown* package using npm
+    * ``` $ npm install markdown ```
