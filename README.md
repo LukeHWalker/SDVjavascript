@@ -1,2 +1,2 @@
 # SDVjavascript
-javascript playground for SDV503
+# Week Two
