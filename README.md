@@ -2,7 +2,7 @@
 *javascript playground for SDV503. \
 Sections are split by week into branches.*
 
-## week 1
+## week 2
 **DEPENDENCIES**
 
 * Install *NPM* and *Node*
