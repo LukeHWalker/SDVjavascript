@@ -68,10 +68,19 @@ else  {
     }
 
 
-    if (typeof (country) === 'string') {
+    if (typeof (country) === 'boolean') {
         console.log("This is a string")
     }
     else  {
         console.log('is false')
     }
 
+// syntax for if statements
+// and &&
+// or ||
+// hard equlity or strict equlity = ===
+if (x === '10' && typeof "number") {
+    console.log("all is true")
+} else {
+    console.log("all is false")
+    }
